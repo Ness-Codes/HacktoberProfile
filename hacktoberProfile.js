@@ -3,12 +3,17 @@ var profiles = [
         "name" : "Srinibas Biswal",
         "place" : "Bhubaneswar, India",
         "github" : "srinibasbiswal"
-    },    
+    },
+    {
+        "name" : "Vanessa Morales",
+        "place" : "New Jersey, USA",
+        "github" : "Ness-codes"
+    },
     {
         "name" : "Chee Seng Leong",
         "place" : "Kuala Lumpur, Malaysia",
         "github" : "csleong98"
-    },  
+    },
     {
         "name" : "Aisha Aqeel",
         "place" : "Karachi, Pakistan",
@@ -40,4 +45,3 @@ var profiles = [
         "github" : "PandiyanCool"
     }
 ]
-
